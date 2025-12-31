@@ -2,7 +2,7 @@
 
 This repository documents my systematic and long-term journey of learning and mastering the **technical tools required for Data Science**, with a strong emphasis on **correct foundations, practical implementation, and real-world applicability**.
 
-This section is intentionally focused on *tools and engineering practices*, while the theoretical foundations (Mathematics, Finance, Accountancy, DSA, Networking) are developed in separate, dedicated tracks.
+This section is intentionally focused on *tools and engineering practices*, while the theoretical foundations (Mathematics, Finance, Accountancy, DSA, Networking, Development) are developed in separate, dedicated tracks.
 
 ---
 
