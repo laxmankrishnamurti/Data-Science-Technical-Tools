@@ -161,6 +161,10 @@ Mathematics, Finance, Accountancy, Systems, and Algorithms.
 I would like to acknowledge the following authors, educators, and resources
 from which I have learned and drawn understanding while building this repository:
 
-- Hitesh Choudhary | Chai aur Code — Git & GitHub
+
+| Name  | Topics | Link  |
+| ----  | ----------- | ----- |
+| Hitesh Choudhary  | Git & GitHub | [Visit](https://www.youtube.com/watch?v=q8EevlEpQ2A) |
+
 
 All implementations and interpretations in this repository are my own.
